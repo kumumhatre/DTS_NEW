@@ -1,0 +1,273 @@
+D:\Documents\Visual Studio 2015\Projects\ssmarketnewTokenBase\ssmarketnewTokenBase\bin\ApplicationInsights.config
+D:\Documents\Visual Studio 2015\Projects\ssmarketnewTokenBase\ssmarketnewTokenBase\bin\roslyn\csc.exe
+D:\Documents\Visual Studio 2015\Projects\ssmarketnewTokenBase\ssmarketnewTokenBase\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Documents\Visual Studio 2015\Projects\ssmarketnewTokenBase\ssmarketnewTokenBase\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Documents\Visual Studio 2015\Projects\ssmarketnewTokenBase\ssmarketnewTokenBase\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Documents\Visual Studio 2015\Projects\ssmarketnewTokenBase\ssmarketnewTokenBase\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Documents\Visual Studio 2015\Projects\ssmarketnewTokenBase\ssmarketnewTokenBase\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Documents\Visual Studio 2015\Projects\ssmarketnewTokenBase\ssmarketnewTokenBase\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Documents\Visual Studio 2015\Projects\ssmarketnewTokenBase\ssmarketnewTokenBase\bin\roslyn\System.Collections.Immutable.dll
+D:\Documents\Visual Studio 2015\Projects\ssmarketnewTokenBase\ssmarketnewTokenBase\bin\roslyn\System.Reflection.Metadata.dll
+D:\Documents\Visual Studio 2015\Projects\ssmarketnewTokenBase\ssmarketnewTokenBase\bin\roslyn\vbc.exe
+D:\Documents\Visual Studio 2015\Projects\ssmarketnewTokenBase\ssmarketnewTokenBase\bin\roslyn\VBCSCompiler.exe
+D:\Documents\Visual Studio 2015\Projects\ssmarketnewTokenBase\ssmarketnewTokenBase\bin\roslyn\VBCSCompiler.exe.config
+D:\Documents\Visual Studio 2015\Projects\ssmarketnewTokenBase\ssmarketnewTokenBase\bin\ssmarketnewTokenBase.dll.config
+D:\Documents\Visual Studio 2015\Projects\ssmarketnewTokenBase\ssmarketnewTokenBase\bin\ssmarketnewTokenBase.dll
+D:\Documents\Visual Studio 2015\Projects\ssmarketnewTokenBase\ssmarketnewTokenBase\bin\ssmarketnewTokenBase.pdb
+D:\Documents\Visual Studio 2015\Projects\ssmarketnewTokenBase\ssmarketnewTokenBase\bin\Antlr3.Runtime.dll
+D:\Documents\Visual Studio 2015\Projects\ssmarketnewTokenBase\ssmarketnewTokenBase\bin\EntityFramework.dll
+D:\Documents\Visual Studio 2015\Projects\ssmarketnewTokenBase\ssmarketnewTokenBase\bin\EntityFramework.SqlServer.dll
+D:\Documents\Visual Studio 2015\Projects\ssmarketnewTokenBase\ssmarketnewTokenBase\bin\Microsoft.AI.Agent.Intercept.dll
+D:\Documents\Visual Studio 2015\Projects\ssmarketnewTokenBase\ssmarketnewTokenBase\bin\Microsoft.AI.DependencyCollector.dll
+D:\Documents\Visual Studio 2015\Projects\ssmarketnewTokenBase\ssmarketnewTokenBase\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\Documents\Visual Studio 2015\Projects\ssmarketnewTokenBase\ssmarketnewTokenBase\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\Documents\Visual Studio 2015\Projects\ssmarketnewTokenBase\ssmarketnewTokenBase\bin\Microsoft.AI.Web.dll
+D:\Documents\Visual Studio 2015\Projects\ssmarketnewTokenBase\ssmarketnewTokenBase\bin\Microsoft.AI.WindowsServer.dll
+D:\Documents\Visual Studio 2015\Projects\ssmarketnewTokenBase\ssmarketnewTokenBase\bin\Microsoft.ApplicationInsights.dll
+D:\Documents\Visual Studio 2015\Projects\ssmarketnewTokenBase\ssmarketnewTokenBase\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Documents\Visual Studio 2015\Projects\ssmarketnewTokenBase\ssmarketnewTokenBase\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Documents\Visual Studio 2015\Projects\ssmarketnewTokenBase\ssmarketnewTokenBase\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Documents\Visual Studio 2015\Projects\ssmarketnewTokenBase\ssmarketnewTokenBase\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Documents\Visual Studio 2015\Projects\ssmarketnewTokenBase\ssmarketnewTokenBase\bin\Microsoft.Owin.dll
+D:\Documents\Visual Studio 2015\Projects\ssmarketnewTokenBase\ssmarketnewTokenBase\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Documents\Visual Studio 2015\Projects\ssmarketnewTokenBase\ssmarketnewTokenBase\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Documents\Visual Studio 2015\Projects\ssmarketnewTokenBase\ssmarketnewTokenBase\bin\Microsoft.Owin.Security.dll
+D:\Documents\Visual Studio 2015\Projects\ssmarketnewTokenBase\ssmarketnewTokenBase\bin\Microsoft.Owin.Security.Facebook.dll
+D:\Documents\Visual Studio 2015\Projects\ssmarketnewTokenBase\ssmarketnewTokenBase\bin\Microsoft.Owin.Security.Google.dll
+D:\Documents\Visual Studio 2015\Projects\ssmarketnewTokenBase\ssmarketnewTokenBase\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\Documents\Visual Studio 2015\Projects\ssmarketnewTokenBase\ssmarketnewTokenBase\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Documents\Visual Studio 2015\Projects\ssmarketnewTokenBase\ssmarketnewTokenBase\bin\Microsoft.Owin.Security.Twitter.dll
+D:\Documents\Visual Studio 2015\Projects\ssmarketnewTokenBase\ssmarketnewTokenBase\bin\Microsoft.Web.Infrastructure.dll
+D:\Documents\Visual Studio 2015\Projects\ssmarketnewTokenBase\ssmarketnewTokenBase\bin\Newtonsoft.Json.dll
+D:\Documents\Visual Studio 2015\Projects\ssmarketnewTokenBase\ssmarketnewTokenBase\bin\Owin.dll
+D:\Documents\Visual Studio 2015\Projects\ssmarketnewTokenBase\ssmarketnewTokenBase\bin\System.Net.Http.Formatting.dll
+D:\Documents\Visual Studio 2015\Projects\ssmarketnewTokenBase\ssmarketnewTokenBase\bin\System.Web.Helpers.dll
+D:\Documents\Visual Studio 2015\Projects\ssmarketnewTokenBase\ssmarketnewTokenBase\bin\System.Web.Http.dll
+D:\Documents\Visual Studio 2015\Projects\ssmarketnewTokenBase\ssmarketnewTokenBase\bin\System.Web.Http.Owin.dll
+D:\Documents\Visual Studio 2015\Projects\ssmarketnewTokenBase\ssmarketnewTokenBase\bin\System.Web.Http.WebHost.dll
+D:\Documents\Visual Studio 2015\Projects\ssmarketnewTokenBase\ssmarketnewTokenBase\bin\System.Web.Mvc.dll
+D:\Documents\Visual Studio 2015\Projects\ssmarketnewTokenBase\ssmarketnewTokenBase\bin\System.Web.Optimization.dll
+D:\Documents\Visual Studio 2015\Projects\ssmarketnewTokenBase\ssmarketnewTokenBase\bin\System.Web.Razor.dll
+D:\Documents\Visual Studio 2015\Projects\ssmarketnewTokenBase\ssmarketnewTokenBase\bin\System.Web.WebPages.Deployment.dll
+D:\Documents\Visual Studio 2015\Projects\ssmarketnewTokenBase\ssmarketnewTokenBase\bin\System.Web.WebPages.dll
+D:\Documents\Visual Studio 2015\Projects\ssmarketnewTokenBase\ssmarketnewTokenBase\bin\System.Web.WebPages.Razor.dll
+D:\Documents\Visual Studio 2015\Projects\ssmarketnewTokenBase\ssmarketnewTokenBase\bin\WebGrease.dll
+D:\Documents\Visual Studio 2015\Projects\ssmarketnewTokenBase\ssmarketnewTokenBase\bin\Microsoft.AI.DependencyCollector.xml
+D:\Documents\Visual Studio 2015\Projects\ssmarketnewTokenBase\ssmarketnewTokenBase\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\Documents\Visual Studio 2015\Projects\ssmarketnewTokenBase\ssmarketnewTokenBase\bin\Microsoft.AI.Web.xml
+D:\Documents\Visual Studio 2015\Projects\ssmarketnewTokenBase\ssmarketnewTokenBase\bin\Microsoft.AI.WindowsServer.xml
+D:\Documents\Visual Studio 2015\Projects\ssmarketnewTokenBase\ssmarketnewTokenBase\bin\Microsoft.ApplicationInsights.xml
+D:\Documents\Visual Studio 2015\Projects\ssmarketnewTokenBase\ssmarketnewTokenBase\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Documents\Visual Studio 2015\Projects\ssmarketnewTokenBase\ssmarketnewTokenBase\bin\Newtonsoft.Json.xml
+D:\Documents\Visual Studio 2015\Projects\ssmarketnewTokenBase\ssmarketnewTokenBase\bin\System.Net.Http.Formatting.xml
+D:\Documents\Visual Studio 2015\Projects\ssmarketnewTokenBase\ssmarketnewTokenBase\bin\System.Web.Helpers.xml
+D:\Documents\Visual Studio 2015\Projects\ssmarketnewTokenBase\ssmarketnewTokenBase\bin\System.Web.Http.xml
+D:\Documents\Visual Studio 2015\Projects\ssmarketnewTokenBase\ssmarketnewTokenBase\bin\System.Web.Http.WebHost.xml
+D:\Documents\Visual Studio 2015\Projects\ssmarketnewTokenBase\ssmarketnewTokenBase\bin\System.Web.Mvc.xml
+D:\Documents\Visual Studio 2015\Projects\ssmarketnewTokenBase\ssmarketnewTokenBase\bin\System.Web.Optimization.xml
+D:\Documents\Visual Studio 2015\Projects\ssmarketnewTokenBase\ssmarketnewTokenBase\bin\System.Web.Razor.xml
+D:\Documents\Visual Studio 2015\Projects\ssmarketnewTokenBase\ssmarketnewTokenBase\bin\System.Web.WebPages.xml
+D:\Documents\Visual Studio 2015\Projects\ssmarketnewTokenBase\ssmarketnewTokenBase\bin\System.Web.WebPages.Deployment.xml
+D:\Documents\Visual Studio 2015\Projects\ssmarketnewTokenBase\ssmarketnewTokenBase\bin\System.Web.WebPages.Razor.xml
+D:\Documents\Visual Studio 2015\Projects\ssmarketnewTokenBase\ssmarketnewTokenBase\bin\Antlr3.Runtime.pdb
+D:\Documents\Visual Studio 2015\Projects\ssmarketnewTokenBase\ssmarketnewTokenBase\bin\EntityFramework.xml
+D:\Documents\Visual Studio 2015\Projects\ssmarketnewTokenBase\ssmarketnewTokenBase\bin\EntityFramework.SqlServer.xml
+D:\Documents\Visual Studio 2015\Projects\ssmarketnewTokenBase\ssmarketnewTokenBase\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Documents\Visual Studio 2015\Projects\ssmarketnewTokenBase\ssmarketnewTokenBase\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Documents\Visual Studio 2015\Projects\ssmarketnewTokenBase\ssmarketnewTokenBase\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Documents\Visual Studio 2015\Projects\ssmarketnewTokenBase\ssmarketnewTokenBase\bin\Microsoft.Owin.xml
+D:\Documents\Visual Studio 2015\Projects\ssmarketnewTokenBase\ssmarketnewTokenBase\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Documents\Visual Studio 2015\Projects\ssmarketnewTokenBase\ssmarketnewTokenBase\bin\Microsoft.Owin.Security.xml
+D:\Documents\Visual Studio 2015\Projects\ssmarketnewTokenBase\ssmarketnewTokenBase\bin\Microsoft.Owin.Security.Facebook.xml
+D:\Documents\Visual Studio 2015\Projects\ssmarketnewTokenBase\ssmarketnewTokenBase\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Documents\Visual Studio 2015\Projects\ssmarketnewTokenBase\ssmarketnewTokenBase\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Documents\Visual Studio 2015\Projects\ssmarketnewTokenBase\ssmarketnewTokenBase\bin\Microsoft.Owin.Security.Google.xml
+D:\Documents\Visual Studio 2015\Projects\ssmarketnewTokenBase\ssmarketnewTokenBase\bin\Microsoft.Owin.Security.Twitter.xml
+D:\Documents\Visual Studio 2015\Projects\ssmarketnewTokenBase\ssmarketnewTokenBase\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\Documents\Visual Studio 2015\Projects\ssmarketnewTokenBase\ssmarketnewTokenBase\bin\System.Web.Http.Owin.xml
+D:\Documents\Visual Studio 2015\Projects\ssmarketnewTokenBase\ssmarketnewTokenBase\obj\Debug\ssmarketnewTokenBase.dll
+D:\Documents\Visual Studio 2015\Projects\ssmarketnewTokenBase\ssmarketnewTokenBase\obj\Debug\ssmarketnewTokenBase.pdb
+D:\Documents\Visual Studio 2015\Projects\ssmarketnewTokenBase\ssmarketnewTokenBase\obj\Debug\ssmarketnewTokenBase.csprojResolveAssemblyReference.cache
+E:\Projects\ssmarketnewTokenBase\ssmarketnewTokenBase\bin\ApplicationInsights.config
+E:\Projects\ssmarketnewTokenBase\ssmarketnewTokenBase\bin\roslyn\csc.exe
+E:\Projects\ssmarketnewTokenBase\ssmarketnewTokenBase\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Projects\ssmarketnewTokenBase\ssmarketnewTokenBase\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Projects\ssmarketnewTokenBase\ssmarketnewTokenBase\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Projects\ssmarketnewTokenBase\ssmarketnewTokenBase\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Projects\ssmarketnewTokenBase\ssmarketnewTokenBase\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Projects\ssmarketnewTokenBase\ssmarketnewTokenBase\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Projects\ssmarketnewTokenBase\ssmarketnewTokenBase\bin\roslyn\System.Collections.Immutable.dll
+E:\Projects\ssmarketnewTokenBase\ssmarketnewTokenBase\bin\roslyn\System.Reflection.Metadata.dll
+E:\Projects\ssmarketnewTokenBase\ssmarketnewTokenBase\bin\roslyn\vbc.exe
+E:\Projects\ssmarketnewTokenBase\ssmarketnewTokenBase\bin\roslyn\VBCSCompiler.exe
+E:\Projects\ssmarketnewTokenBase\ssmarketnewTokenBase\bin\roslyn\VBCSCompiler.exe.config
+E:\Projects\ssmarketnewTokenBase\ssmarketnewTokenBase\bin\ssmarketnewTokenBase.dll.config
+E:\Projects\ssmarketnewTokenBase\ssmarketnewTokenBase\bin\ssmarketnewTokenBase.dll
+E:\Projects\ssmarketnewTokenBase\ssmarketnewTokenBase\bin\ssmarketnewTokenBase.pdb
+E:\Projects\ssmarketnewTokenBase\ssmarketnewTokenBase\bin\Antlr3.Runtime.dll
+E:\Projects\ssmarketnewTokenBase\ssmarketnewTokenBase\bin\EntityFramework.dll
+E:\Projects\ssmarketnewTokenBase\ssmarketnewTokenBase\bin\EntityFramework.SqlServer.dll
+E:\Projects\ssmarketnewTokenBase\ssmarketnewTokenBase\bin\Microsoft.AI.Agent.Intercept.dll
+E:\Projects\ssmarketnewTokenBase\ssmarketnewTokenBase\bin\Microsoft.AI.DependencyCollector.dll
+E:\Projects\ssmarketnewTokenBase\ssmarketnewTokenBase\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\Projects\ssmarketnewTokenBase\ssmarketnewTokenBase\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\Projects\ssmarketnewTokenBase\ssmarketnewTokenBase\bin\Microsoft.AI.Web.dll
+E:\Projects\ssmarketnewTokenBase\ssmarketnewTokenBase\bin\Microsoft.AI.WindowsServer.dll
+E:\Projects\ssmarketnewTokenBase\ssmarketnewTokenBase\bin\Microsoft.ApplicationInsights.dll
+E:\Projects\ssmarketnewTokenBase\ssmarketnewTokenBase\bin\Microsoft.AspNet.Identity.Core.dll
+E:\Projects\ssmarketnewTokenBase\ssmarketnewTokenBase\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\Projects\ssmarketnewTokenBase\ssmarketnewTokenBase\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\Projects\ssmarketnewTokenBase\ssmarketnewTokenBase\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Projects\ssmarketnewTokenBase\ssmarketnewTokenBase\bin\Microsoft.Owin.dll
+E:\Projects\ssmarketnewTokenBase\ssmarketnewTokenBase\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\Projects\ssmarketnewTokenBase\ssmarketnewTokenBase\bin\Microsoft.Owin.Security.Cookies.dll
+E:\Projects\ssmarketnewTokenBase\ssmarketnewTokenBase\bin\Microsoft.Owin.Security.dll
+E:\Projects\ssmarketnewTokenBase\ssmarketnewTokenBase\bin\Microsoft.Owin.Security.Facebook.dll
+E:\Projects\ssmarketnewTokenBase\ssmarketnewTokenBase\bin\Microsoft.Owin.Security.Google.dll
+E:\Projects\ssmarketnewTokenBase\ssmarketnewTokenBase\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\Projects\ssmarketnewTokenBase\ssmarketnewTokenBase\bin\Microsoft.Owin.Security.OAuth.dll
+E:\Projects\ssmarketnewTokenBase\ssmarketnewTokenBase\bin\Microsoft.Owin.Security.Twitter.dll
+E:\Projects\ssmarketnewTokenBase\ssmarketnewTokenBase\bin\Microsoft.Web.Infrastructure.dll
+E:\Projects\ssmarketnewTokenBase\ssmarketnewTokenBase\bin\Newtonsoft.Json.dll
+E:\Projects\ssmarketnewTokenBase\ssmarketnewTokenBase\bin\Owin.dll
+E:\Projects\ssmarketnewTokenBase\ssmarketnewTokenBase\bin\System.Net.Http.Formatting.dll
+E:\Projects\ssmarketnewTokenBase\ssmarketnewTokenBase\bin\System.Web.Helpers.dll
+E:\Projects\ssmarketnewTokenBase\ssmarketnewTokenBase\bin\System.Web.Http.dll
+E:\Projects\ssmarketnewTokenBase\ssmarketnewTokenBase\bin\System.Web.Http.Owin.dll
+E:\Projects\ssmarketnewTokenBase\ssmarketnewTokenBase\bin\System.Web.Http.WebHost.dll
+E:\Projects\ssmarketnewTokenBase\ssmarketnewTokenBase\bin\System.Web.Mvc.dll
+E:\Projects\ssmarketnewTokenBase\ssmarketnewTokenBase\bin\System.Web.Optimization.dll
+E:\Projects\ssmarketnewTokenBase\ssmarketnewTokenBase\bin\System.Web.Razor.dll
+E:\Projects\ssmarketnewTokenBase\ssmarketnewTokenBase\bin\System.Web.WebPages.Deployment.dll
+E:\Projects\ssmarketnewTokenBase\ssmarketnewTokenBase\bin\System.Web.WebPages.dll
+E:\Projects\ssmarketnewTokenBase\ssmarketnewTokenBase\bin\System.Web.WebPages.Razor.dll
+E:\Projects\ssmarketnewTokenBase\ssmarketnewTokenBase\bin\WebGrease.dll
+E:\Projects\ssmarketnewTokenBase\ssmarketnewTokenBase\bin\Microsoft.AI.DependencyCollector.xml
+E:\Projects\ssmarketnewTokenBase\ssmarketnewTokenBase\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\Projects\ssmarketnewTokenBase\ssmarketnewTokenBase\bin\Microsoft.AI.Web.xml
+E:\Projects\ssmarketnewTokenBase\ssmarketnewTokenBase\bin\Microsoft.AI.WindowsServer.xml
+E:\Projects\ssmarketnewTokenBase\ssmarketnewTokenBase\bin\Microsoft.ApplicationInsights.xml
+E:\Projects\ssmarketnewTokenBase\ssmarketnewTokenBase\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Projects\ssmarketnewTokenBase\ssmarketnewTokenBase\bin\Newtonsoft.Json.xml
+E:\Projects\ssmarketnewTokenBase\ssmarketnewTokenBase\bin\System.Net.Http.Formatting.xml
+E:\Projects\ssmarketnewTokenBase\ssmarketnewTokenBase\bin\System.Web.Helpers.xml
+E:\Projects\ssmarketnewTokenBase\ssmarketnewTokenBase\bin\System.Web.Http.xml
+E:\Projects\ssmarketnewTokenBase\ssmarketnewTokenBase\bin\System.Web.Http.WebHost.xml
+E:\Projects\ssmarketnewTokenBase\ssmarketnewTokenBase\bin\System.Web.Mvc.xml
+E:\Projects\ssmarketnewTokenBase\ssmarketnewTokenBase\bin\System.Web.Optimization.xml
+E:\Projects\ssmarketnewTokenBase\ssmarketnewTokenBase\bin\System.Web.Razor.xml
+E:\Projects\ssmarketnewTokenBase\ssmarketnewTokenBase\bin\System.Web.WebPages.xml
+E:\Projects\ssmarketnewTokenBase\ssmarketnewTokenBase\bin\System.Web.WebPages.Deployment.xml
+E:\Projects\ssmarketnewTokenBase\ssmarketnewTokenBase\bin\System.Web.WebPages.Razor.xml
+E:\Projects\ssmarketnewTokenBase\ssmarketnewTokenBase\bin\Antlr3.Runtime.pdb
+E:\Projects\ssmarketnewTokenBase\ssmarketnewTokenBase\bin\EntityFramework.xml
+E:\Projects\ssmarketnewTokenBase\ssmarketnewTokenBase\bin\EntityFramework.SqlServer.xml
+E:\Projects\ssmarketnewTokenBase\ssmarketnewTokenBase\bin\Microsoft.AspNet.Identity.Core.xml
+E:\Projects\ssmarketnewTokenBase\ssmarketnewTokenBase\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\Projects\ssmarketnewTokenBase\ssmarketnewTokenBase\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\Projects\ssmarketnewTokenBase\ssmarketnewTokenBase\bin\Microsoft.Owin.xml
+E:\Projects\ssmarketnewTokenBase\ssmarketnewTokenBase\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\Projects\ssmarketnewTokenBase\ssmarketnewTokenBase\bin\Microsoft.Owin.Security.xml
+E:\Projects\ssmarketnewTokenBase\ssmarketnewTokenBase\bin\Microsoft.Owin.Security.Facebook.xml
+E:\Projects\ssmarketnewTokenBase\ssmarketnewTokenBase\bin\Microsoft.Owin.Security.Cookies.xml
+E:\Projects\ssmarketnewTokenBase\ssmarketnewTokenBase\bin\Microsoft.Owin.Security.OAuth.xml
+E:\Projects\ssmarketnewTokenBase\ssmarketnewTokenBase\bin\Microsoft.Owin.Security.Google.xml
+E:\Projects\ssmarketnewTokenBase\ssmarketnewTokenBase\bin\Microsoft.Owin.Security.Twitter.xml
+E:\Projects\ssmarketnewTokenBase\ssmarketnewTokenBase\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\Projects\ssmarketnewTokenBase\ssmarketnewTokenBase\bin\System.Web.Http.Owin.xml
+E:\Projects\ssmarketnewTokenBase\ssmarketnewTokenBase\obj\Debug\ssmarketnewTokenBase.csprojAssemblyReference.cache
+E:\Projects\ssmarketnewTokenBase\ssmarketnewTokenBase\obj\Debug\ssmarketnewTokenBase.csproj.CoreCompileInputs.cache
+E:\Projects\ssmarketnewTokenBase\ssmarketnewTokenBase\obj\Debug\ssmarketnewTokenBase.csproj.CopyComplete
+E:\Projects\ssmarketnewTokenBase\ssmarketnewTokenBase\obj\Debug\ssmarketnewTokenBase.dll
+E:\Projects\ssmarketnewTokenBase\ssmarketnewTokenBase\obj\Debug\ssmarketnewTokenBase.pdb
+D:\ssmarketnewTokenBase\ssmarketnewTokenBase\bin\ApplicationInsights.config
+D:\ssmarketnewTokenBase\ssmarketnewTokenBase\bin\roslyn\csc.exe
+D:\ssmarketnewTokenBase\ssmarketnewTokenBase\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\ssmarketnewTokenBase\ssmarketnewTokenBase\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\ssmarketnewTokenBase\ssmarketnewTokenBase\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\ssmarketnewTokenBase\ssmarketnewTokenBase\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\ssmarketnewTokenBase\ssmarketnewTokenBase\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\ssmarketnewTokenBase\ssmarketnewTokenBase\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\ssmarketnewTokenBase\ssmarketnewTokenBase\bin\roslyn\System.Collections.Immutable.dll
+D:\ssmarketnewTokenBase\ssmarketnewTokenBase\bin\roslyn\System.Reflection.Metadata.dll
+D:\ssmarketnewTokenBase\ssmarketnewTokenBase\bin\roslyn\vbc.exe
+D:\ssmarketnewTokenBase\ssmarketnewTokenBase\bin\roslyn\VBCSCompiler.exe
+D:\ssmarketnewTokenBase\ssmarketnewTokenBase\bin\roslyn\VBCSCompiler.exe.config
+D:\ssmarketnewTokenBase\ssmarketnewTokenBase\bin\ssmarketnewTokenBase.dll.config
+D:\ssmarketnewTokenBase\ssmarketnewTokenBase\bin\ssmarketnewTokenBase.dll
+D:\ssmarketnewTokenBase\ssmarketnewTokenBase\bin\ssmarketnewTokenBase.pdb
+D:\ssmarketnewTokenBase\ssmarketnewTokenBase\bin\Antlr3.Runtime.dll
+D:\ssmarketnewTokenBase\ssmarketnewTokenBase\bin\EntityFramework.dll
+D:\ssmarketnewTokenBase\ssmarketnewTokenBase\bin\EntityFramework.SqlServer.dll
+D:\ssmarketnewTokenBase\ssmarketnewTokenBase\bin\Microsoft.AI.Agent.Intercept.dll
+D:\ssmarketnewTokenBase\ssmarketnewTokenBase\bin\Microsoft.AI.DependencyCollector.dll
+D:\ssmarketnewTokenBase\ssmarketnewTokenBase\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\ssmarketnewTokenBase\ssmarketnewTokenBase\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\ssmarketnewTokenBase\ssmarketnewTokenBase\bin\Microsoft.AI.Web.dll
+D:\ssmarketnewTokenBase\ssmarketnewTokenBase\bin\Microsoft.AI.WindowsServer.dll
+D:\ssmarketnewTokenBase\ssmarketnewTokenBase\bin\Microsoft.ApplicationInsights.dll
+D:\ssmarketnewTokenBase\ssmarketnewTokenBase\bin\Microsoft.AspNet.Identity.Core.dll
+D:\ssmarketnewTokenBase\ssmarketnewTokenBase\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\ssmarketnewTokenBase\ssmarketnewTokenBase\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\ssmarketnewTokenBase\ssmarketnewTokenBase\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\ssmarketnewTokenBase\ssmarketnewTokenBase\bin\Microsoft.Owin.dll
+D:\ssmarketnewTokenBase\ssmarketnewTokenBase\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\ssmarketnewTokenBase\ssmarketnewTokenBase\bin\Microsoft.Owin.Security.Cookies.dll
+D:\ssmarketnewTokenBase\ssmarketnewTokenBase\bin\Microsoft.Owin.Security.dll
+D:\ssmarketnewTokenBase\ssmarketnewTokenBase\bin\Microsoft.Owin.Security.Facebook.dll
+D:\ssmarketnewTokenBase\ssmarketnewTokenBase\bin\Microsoft.Owin.Security.Google.dll
+D:\ssmarketnewTokenBase\ssmarketnewTokenBase\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\ssmarketnewTokenBase\ssmarketnewTokenBase\bin\Microsoft.Owin.Security.OAuth.dll
+D:\ssmarketnewTokenBase\ssmarketnewTokenBase\bin\Microsoft.Owin.Security.Twitter.dll
+D:\ssmarketnewTokenBase\ssmarketnewTokenBase\bin\Microsoft.Web.Infrastructure.dll
+D:\ssmarketnewTokenBase\ssmarketnewTokenBase\bin\Newtonsoft.Json.dll
+D:\ssmarketnewTokenBase\ssmarketnewTokenBase\bin\Owin.dll
+D:\ssmarketnewTokenBase\ssmarketnewTokenBase\bin\System.Net.Http.Formatting.dll
+D:\ssmarketnewTokenBase\ssmarketnewTokenBase\bin\System.Web.Helpers.dll
+D:\ssmarketnewTokenBase\ssmarketnewTokenBase\bin\System.Web.Http.dll
+D:\ssmarketnewTokenBase\ssmarketnewTokenBase\bin\System.Web.Http.Owin.dll
+D:\ssmarketnewTokenBase\ssmarketnewTokenBase\bin\System.Web.Http.WebHost.dll
+D:\ssmarketnewTokenBase\ssmarketnewTokenBase\bin\System.Web.Mvc.dll
+D:\ssmarketnewTokenBase\ssmarketnewTokenBase\bin\System.Web.Optimization.dll
+D:\ssmarketnewTokenBase\ssmarketnewTokenBase\bin\System.Web.Razor.dll
+D:\ssmarketnewTokenBase\ssmarketnewTokenBase\bin\System.Web.WebPages.Deployment.dll
+D:\ssmarketnewTokenBase\ssmarketnewTokenBase\bin\System.Web.WebPages.dll
+D:\ssmarketnewTokenBase\ssmarketnewTokenBase\bin\System.Web.WebPages.Razor.dll
+D:\ssmarketnewTokenBase\ssmarketnewTokenBase\bin\WebGrease.dll
+D:\ssmarketnewTokenBase\ssmarketnewTokenBase\bin\Microsoft.AI.DependencyCollector.xml
+D:\ssmarketnewTokenBase\ssmarketnewTokenBase\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\ssmarketnewTokenBase\ssmarketnewTokenBase\bin\Microsoft.AI.Web.xml
+D:\ssmarketnewTokenBase\ssmarketnewTokenBase\bin\Microsoft.AI.WindowsServer.xml
+D:\ssmarketnewTokenBase\ssmarketnewTokenBase\bin\Microsoft.ApplicationInsights.xml
+D:\ssmarketnewTokenBase\ssmarketnewTokenBase\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\ssmarketnewTokenBase\ssmarketnewTokenBase\bin\Newtonsoft.Json.xml
+D:\ssmarketnewTokenBase\ssmarketnewTokenBase\bin\System.Net.Http.Formatting.xml
+D:\ssmarketnewTokenBase\ssmarketnewTokenBase\bin\System.Web.Helpers.xml
+D:\ssmarketnewTokenBase\ssmarketnewTokenBase\bin\System.Web.Http.xml
+D:\ssmarketnewTokenBase\ssmarketnewTokenBase\bin\System.Web.Http.WebHost.xml
+D:\ssmarketnewTokenBase\ssmarketnewTokenBase\bin\System.Web.Mvc.xml
+D:\ssmarketnewTokenBase\ssmarketnewTokenBase\bin\System.Web.Optimization.xml
+D:\ssmarketnewTokenBase\ssmarketnewTokenBase\bin\System.Web.Razor.xml
+D:\ssmarketnewTokenBase\ssmarketnewTokenBase\bin\System.Web.WebPages.xml
+D:\ssmarketnewTokenBase\ssmarketnewTokenBase\bin\System.Web.WebPages.Deployment.xml
+D:\ssmarketnewTokenBase\ssmarketnewTokenBase\bin\System.Web.WebPages.Razor.xml
+D:\ssmarketnewTokenBase\ssmarketnewTokenBase\bin\Antlr3.Runtime.pdb
+D:\ssmarketnewTokenBase\ssmarketnewTokenBase\bin\EntityFramework.xml
+D:\ssmarketnewTokenBase\ssmarketnewTokenBase\bin\EntityFramework.SqlServer.xml
+D:\ssmarketnewTokenBase\ssmarketnewTokenBase\bin\Microsoft.AspNet.Identity.Core.xml
+D:\ssmarketnewTokenBase\ssmarketnewTokenBase\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\ssmarketnewTokenBase\ssmarketnewTokenBase\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\ssmarketnewTokenBase\ssmarketnewTokenBase\bin\Microsoft.Owin.xml
+D:\ssmarketnewTokenBase\ssmarketnewTokenBase\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\ssmarketnewTokenBase\ssmarketnewTokenBase\bin\Microsoft.Owin.Security.xml
+D:\ssmarketnewTokenBase\ssmarketnewTokenBase\bin\Microsoft.Owin.Security.Facebook.xml
+D:\ssmarketnewTokenBase\ssmarketnewTokenBase\bin\Microsoft.Owin.Security.Cookies.xml
+D:\ssmarketnewTokenBase\ssmarketnewTokenBase\bin\Microsoft.Owin.Security.OAuth.xml
+D:\ssmarketnewTokenBase\ssmarketnewTokenBase\bin\Microsoft.Owin.Security.Google.xml
+D:\ssmarketnewTokenBase\ssmarketnewTokenBase\bin\Microsoft.Owin.Security.Twitter.xml
+D:\ssmarketnewTokenBase\ssmarketnewTokenBase\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\ssmarketnewTokenBase\ssmarketnewTokenBase\bin\System.Web.Http.Owin.xml
+D:\ssmarketnewTokenBase\ssmarketnewTokenBase\obj\Debug\ssmarketnewTokenBase.csproj.CoreCompileInputs.cache
+D:\ssmarketnewTokenBase\ssmarketnewTokenBase\obj\Debug\ssmarketnewTokenBase.csproj.CopyComplete
+D:\ssmarketnewTokenBase\ssmarketnewTokenBase\obj\Debug\ssmarketnewTokenBase.dll
+D:\ssmarketnewTokenBase\ssmarketnewTokenBase\obj\Debug\ssmarketnewTokenBase.pdb

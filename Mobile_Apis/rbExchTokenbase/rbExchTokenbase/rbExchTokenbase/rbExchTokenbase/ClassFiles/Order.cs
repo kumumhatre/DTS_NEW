@@ -1,0 +1,31 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Web;
+
+namespace rbExchTokenbase.ClassFiles
+{
+    public struct Order
+    {
+        public int orderid;
+        public string symbol;
+        public int BuySell;
+        public int ExchangeTypeID;
+        public int ProductType;
+        public int Ordeqty;
+        public decimal OrdePrice;
+        public double OrderNo;
+        public int ValidityType;
+        public string UserRemark;
+        public string accountNo;
+        public string TraderId;
+        public string CreatedOn;
+        public string LastModified;
+        public int Orderstatus;
+        public int isAdmin;
+        public int isMaintenance;
+        public string AccName;
+        public int Exectype;
+        public decimal ExecPrice;
+    };
+}
